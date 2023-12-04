@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T02:41:15.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="XsMuK5OFXlPERhWoKjqj" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T02:42:57.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="KzyO2tblfgWafyrIweb1" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1030" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,19 +12,19 @@
         </mxCell>
         <mxCell id="88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="739.2300000000002" y="40" as="sourcePoint" />
-            <mxPoint x="739.2300000000002" y="109" as="targetPoint" />
+            <mxPoint x="729.2300000000002" y="110" as="sourcePoint" />
+            <mxPoint x="729.2300000000002" y="179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="739.23" y="69" />
+              <mxPoint x="729.23" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="89" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="780.0000000000002" y="109" as="sourcePoint" />
-            <mxPoint x="780.0000000000002" y="40" as="targetPoint" />
+            <mxPoint x="770.0000000000002" y="179" as="sourcePoint" />
+            <mxPoint x="770.0000000000002" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="69" />
+              <mxPoint x="770" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,10 +64,10 @@
           <mxGeometry x="640" y="717.25" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-166" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;目标温度误差&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="550" y="-10" width="160" height="70" as="geometry" />
+          <mxGeometry x="540" y="60" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-167" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;目标焓值误差&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="550" y="70" width="160" height="70" as="geometry" />
+          <mxGeometry x="540" y="140" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-168" value="温度误差超过正负允许误差以内&lt;br&gt;并持续了一定时间" style="shape=mxgraph.flowchart.decision;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;direction=north;fillColor=#E6FFCC;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="840" width="240" height="100" as="geometry" />
@@ -98,9 +98,6 @@
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-175" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;End&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="360.75" y="1130" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="3L01GeSeouLhzDQ9MQ58-176" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;End&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="949" y="1577.75" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-177" style="entryX=1;entryY=0.5;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3L01GeSeouLhzDQ9MQ58-168" target="3L01GeSeouLhzDQ9MQ58-175">
           <mxGeometry relative="1" as="geometry">
@@ -140,14 +137,14 @@
           <mxGeometry x="10" y="190" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-187" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;电池冷却固定前馈&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="300" width="160" height="70" as="geometry" />
+          <mxGeometry x="10" y="300" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-188" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;进入闭环后进行&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;基于焓差的控制&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="260" y="300" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3L01GeSeouLhzDQ9MQ58-189" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-189" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="179.5" y="334.38" as="sourcePoint" />
+            <mxPoint x="190" y="335" as="sourcePoint" />
             <mxPoint x="259.5" y="334.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>

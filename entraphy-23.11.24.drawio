@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T02:22:22.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vawopQ7EFm6eYzhMb0C6" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T02:41:15.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="XsMuK5OFXlPERhWoKjqj" version="22.1.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1030" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;目标温度误差&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="10" y="717.25" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;根据目标焓值进行前馈控制&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="10" y="510" width="160" height="85" as="geometry" />
+        <mxCell id="11" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;模式二或三的双蒸控制模式&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="9.5" y="420" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="729.2300000000002" y="230" as="sourcePoint" />
-            <mxPoint x="729.2300000000002" y="299" as="targetPoint" />
+            <mxPoint x="739.2300000000002" y="40" as="sourcePoint" />
+            <mxPoint x="739.2300000000002" y="109" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="729.23" y="259" />
+              <mxPoint x="739.23" y="69" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="89" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="770.0000000000002" y="299" as="sourcePoint" />
-            <mxPoint x="770.0000000000002" y="230" as="targetPoint" />
+            <mxPoint x="780.0000000000002" y="109" as="sourcePoint" />
+            <mxPoint x="780.0000000000002" y="40" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="259" />
+              <mxPoint x="780" y="69" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,10 +64,10 @@
           <mxGeometry x="640" y="717.25" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-166" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;目标温度误差&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="540" y="180" width="160" height="70" as="geometry" />
+          <mxGeometry x="550" y="-10" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-167" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;目标焓值误差&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="160" height="70" as="geometry" />
+          <mxGeometry x="550" y="70" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-168" value="温度误差超过正负允许误差以内&lt;br&gt;并持续了一定时间" style="shape=mxgraph.flowchart.decision;strokeWidth=3;gradientColor=none;gradientDirection=north;fontStyle=1;html=1;direction=north;fillColor=#E6FFCC;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="840" width="240" height="100" as="geometry" />
@@ -93,11 +93,11 @@
         <mxCell id="3L01GeSeouLhzDQ9MQ58-173" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3L01GeSeouLhzDQ9MQ58-163">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="1109.75" as="sourcePoint" />
-            <mxPoint x="440" y="1190" as="targetPoint" />
+            <mxPoint x="440" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-175" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;End&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="359" y="1190" width="160" height="70" as="geometry" />
+          <mxGeometry x="360.75" y="1130" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-176" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;End&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="949" y="1577.75" width="160" height="70" as="geometry" />
@@ -108,12 +108,48 @@
             <mxPoint x="902" y="1139.75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="890" />
-              <mxPoint x="880" y="1225" />
+              <mxPoint x="880" y="1165" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3L01GeSeouLhzDQ9MQ58-178" value="&lt;font face=&quot;Georgia&quot;&gt;no&lt;/font&gt;" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="840" y="1000" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-179" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;基于Blwr和OAT的前馈&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="9.5" y="550" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-180" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="582.75" as="sourcePoint" />
+            <mxPoint x="250" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-181" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;压缩机Ramp和Hold过程&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="253" y="550" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-182" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="585" as="sourcePoint" />
+            <mxPoint x="494" y="585.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-184" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;进入闭环后进行&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;基于焓差的控制&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="496" y="550" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-186" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;模式四单电池冷却的控制模式&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-187" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 5&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;电池冷却固定前馈&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="19.5" y="300" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-188" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 7&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;进入闭环后进行&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;基于焓差的控制&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3L01GeSeouLhzDQ9MQ58-189" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.5" y="334.38" as="sourcePoint" />
+            <mxPoint x="259.5" y="334.63" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
